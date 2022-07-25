@@ -48,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
 
                 }else{
 
-                    Toast.makeText(MainActivity.this, "Not loaded", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(MainActivity.this, "Try again", Toast.LENGTH_SHORT).show();
                 }
 
             }
